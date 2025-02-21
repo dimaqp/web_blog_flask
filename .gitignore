@@ -1,0 +1,27 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+flask_blog/
+*.env
+
+# Flask
+instance/
+*.log
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Database
+*.sqlite3
+*.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
